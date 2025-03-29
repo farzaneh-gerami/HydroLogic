@@ -1,1 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data folders (keep data local)
+data/raw/
+data/processed/
+
+# Streamlit config
+.streamlit/
+
+# VS Code settings (if using VS Code)
+.vscode/
  
