@@ -13,24 +13,24 @@ This project is inspired by the [DrivenData: Pump it Up](https://www.drivendata.
 ## Project Structure
 HydroLogic/ │ ├── data/ # Raw and processed datasets ├── notebooks/ # Jupyter notebooks for EDA and modeling ├── src/ # Scripts for preprocessing and modeling ├── dashboard/ # Streamlit dashboard (coming later) ├── requirements.txt # Python dependencies ├── .gitignore # Files/folders to exclude from version control └── README.md # You're here!
 
-Project Goals: 
+## Project Goals
  Perform data cleaning and feature engineering
  Build classification models to predict pump status
  Visualize insights with geospatial plots
  Deploy an interactive dashboard using Streamlit
 
-Weekly Milestones:
+## Weekly Milestones
  Week 1: Project setup, initial data exploration
  Week 2-3: Data cleaning, feature engineering, EDA
  Week 4-6: Modeling and optimization
  Week 7-8: Dashboard development and deployment
  Week 9: Final presentation and documentation
 
-Team Roles
+## Team Roles
  Data Preprocessing Lead: [Name]
  Modeling Specialist: [Name]
  Dashboard Developer: [Farzaneh Gerami]
 
-Acknowledgments:
+## Acknowledgments
  Data: Taarifa & Tanzania Ministry of Water
  Competition: DrivenData - Pump it Up
